@@ -348,7 +348,7 @@ def internal_error(e):
     return jsonify({'error': 'Internal server error'}), 500
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5500))
+    port = int(os.environ.get('PORT', 5000))
     debug = os.environ.get('FLASK_DEBUG', 'false').lower() == 'true'
     logger.info('Starting VRAJBHAI Hash Identifier v2.2 on port %d', port)
     app.run(host='0.0.0.0', port=port, debug=debug)
