@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: hash-identifier
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: SCRIPT_TIMEOUT
+        value: "60"
