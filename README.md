@@ -1,11 +1,11 @@
 Here's a complete `README.md` file for your VRAJBHAI Hash Identifier project:
 
-```markdown
+
 # 🔍 VRAJBHAI — Hash Identifier
 
 A professional hash identification tool supporting **150+ algorithms** with a cyberpunk-themed web interface. Built on the legendary `hash-identifier.py` by Zion3R/Blackploit, modernized with a Flask backend and real-time analysis.
 
-![Version](https://img.shields.io/badge/version-2.1.0-blue)
+![Version](https://img.shields.io/badge/version-2.2.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![Flask](https://img.shields.io/badge/flask-2.3.3-red)
 ![License](https://img.shields.io/badge/license-MIT-purple)
@@ -36,9 +36,9 @@ A professional hash identification tool supporting **150+ algorithms** with a cy
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/hash-identifier.git
+   git clone https://github.com/vrajbhai/hash-identifier.git
    cd hash-identifier
-   ```
+   
 
 2. **Install dependencies**
    ```bash
@@ -199,18 +199,18 @@ This project is for **educational purposes only**. The original hash-identifier.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/hash-identifier&type=Date)](https://star-history.com/#YOUR_USERNAME/hash-identifier&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=vrajbhai/hash-identifier&type=Date)](https://star-history.com/vrajbhai/hash-identifier&Date)
 
 ---
 
 ## 💬 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/hash-identifier/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/hash-identifier/discussions)
+- **Issues**: [GitHub Issues](https://github.com/vrajbhai/hash-identifier/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/vrajbhai/hash-identifier/discussions)
 
 ---
 
 Made with ❤️ by VRAJBHAI | Powered by Zion3R's hash-identifier
 ```
 
-Just replace `YOUR_USERNAME` with your actual GitHub username, and you're all set! This README covers everything — installation, deployment, API docs, troubleshooting, and credits. 🚀
+Just replace `vrajbhai` with your actual GitHub username, and you're all set! This README covers everything — installation, deployment, API docs, troubleshooting, and credits. 🚀
