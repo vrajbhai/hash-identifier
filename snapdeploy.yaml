@@ -1,0 +1,6 @@
+services:
+  web:
+    type: web
+    port: 5000
+    build: .
+    addons: []  # Explicitly no addons
